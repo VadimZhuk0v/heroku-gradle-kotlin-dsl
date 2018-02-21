@@ -1,2 +1,5 @@
-# spark-kotlin-gradle-heroku
- - begins from: (http://qiita.com/kenichi_odo/items/e266fbc8cf939feca8b0)
+begins from: https://github.com/kenichi-odo/spark-kotlin-gradle-heroku
+
+./gradlew stage
+heroku local
+and look at localhost:5000
